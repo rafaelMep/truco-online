@@ -1,0 +1,31 @@
+# IDE / SO
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# PHP / Yii2
+api-php/vendor/
+api-php/runtime/
+api-php/web/assets/
+api-php/.env
+api-php/.env.local
+api-php/config/*-local.php
+
+# Node / React
+web-react/node_modules/
+web-react/dist/
+web-react/.env
+web-react/.env.*.local
+
+# Python
+ws-python/.venv/
+ws-python/__pycache__/
+ws-python/.env
+
+# genéricos
+.env
+.env.local
